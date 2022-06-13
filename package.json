@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jkorichneva/generative-art#readme",
   "dependencies": {
     "canvas-sketch": "^0.7.5",
-    "canvas-sketch-util": "^1.10.0"
+    "canvas-sketch-util": "^1.10.0",
+    "nice-color-palettes": "^3.0.0"
   }
 }
